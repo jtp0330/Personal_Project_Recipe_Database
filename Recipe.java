@@ -1,3 +1,17 @@
+//////////////////////////////////////////////////
+/*
+Name: Recipe
+Author: Jared
+
+Description:
+The following program is designed to act as a sample
+recipe that will be implemented into the main database
+after each functionality works correctly. 
+
+*/
+//////////////////////////////////////////////////
+
+
 package DataBase;
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
