@@ -7,7 +7,8 @@ The 'Recipe_Database', is a directory of programs created in Java by establishin
 The project helped me understand and develop new concepts and techniques such as GUI Programming and JDBC, while also improving
 my Java programming skills.
 
-//from a sample branch in edits
-This is a practice commit so I can get familiar with GitHub mechanics. 
+//Note still in progress
+//Will modify to incroporate more OOD
+//and other improvements
 
 
